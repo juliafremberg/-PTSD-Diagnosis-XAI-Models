@@ -1,0 +1,245 @@
+\bF18\b
+\bI am F18\b
+\bIm F18\b
+\bI\'m F18\b
+\b18 F\b
+\b18F\b
+\bI am an 18 year old female\b
+\bI am a 18 year old female\b
+\bIm an 18 year old female\b
+\bIm a 18 year old female\b
+\bI\'m an 18 year old female\b
+\bI\'m a 18 year old female\b
+\b18 year old girl\b
+\bI am an 18 year old girl\b
+\bI am a 18 year old girl\b
+\bIm an 18 year old girl\b
+\bIm a 18 year old girl\b
+\bI\'m an 18 year old girl\b
+\bI\'m a 18 year old girl\b
+\b18 years old female\b
+\b18 y/o female\b
+\b18yo female\b
+\b18 year old woman\b
+\bI am an 18 year old woman\b
+\bI am a 18 year old woman\b
+\bIm an 18 year old woman\b
+\bIm a 18 year old woman\b
+\bI\'m an 18 year old woman\b
+\bI\'m a 18 year old woman\b
+\b18 years old woman\b
+\b18 y/o woman\b
+\b18yo woman\b
+\bI am 18F\b
+\bIm 18F\b
+\bI\'m 18F\b
+\bF19\b
+\bI am F19\b
+\bIm F19\b
+\bI\'m F19\b
+\b19 F\b
+\b19F\b
+\bI am an 19 year old female\b
+\bI am a 19 year old female\b
+\bIm an 19 year old female\b
+\bIm a 19 year old female\b
+\bI\'m an 19 year old female\b
+\bI\'m a 19 year old female\b
+\b19 year old girl\b
+\bI am an 19 year old girl\b
+\bI am a 19 year old girl\b
+\bIm an 19 year old girl\b
+\bIm a 19 year old girl\b
+\bI\'m an 19 year old girl\b
+\bI\'m a 19 year old girl\b
+\b19 years old female\b
+\b19 y/o female\b
+\b19yo female\b
+\b19 year old woman\b
+\bI am an 19 year old woman\b
+\bI am a 19 year old woman\b
+\bIm an 19 year old woman\b
+\bIm a 19 year old woman\b
+\bI\'m an 19 year old woman\b
+\bI\'m a 19 year old woman\b
+\b19 years old woman\b
+\b19 y/o woman\b
+\b19yo woman\b
+\bI am 19F\b
+\bIm 19F\b
+\bI\'m 19F\b
+\bF20\b
+\bI am F20\b
+\bIm F20\b
+\bI\'m F20\b
+\b20 F\b
+\b20F\b
+\bI am an 20 year old female\b
+\bI am a 20 year old female\b
+\bIm an 20 year old female\b
+\bIm a 20 year old female\b
+\bI\'m an 20 year old female\b
+\bI\'m a 20 year old female\b
+\b20 year old girl\b
+\bI am an 20 year old girl\b
+\bI am a 20 year old girl\b
+\bIm an 20 year old girl\b
+\bIm a 20 year old girl\b
+\bI\'m an 20 year old girl\b
+\bI\'m a 20 year old girl\b
+\b20 years old female\b
+\b20 y/o female\b
+\b20yo female\b
+\b20 year old woman\b
+\bI am an 20 year old woman\b
+\bI am a 20 year old woman\b
+\bIm an 20 year old woman\b
+\bIm a 20 year old woman\b
+\bI\'m an 20 year old woman\b
+\bI\'m a 20 year old woman\b
+\b20 years old woman\b
+\b20 y/o woman\b
+\b20yo woman\b
+\bI am 20F\b
+\bIm 20F\b
+\bI\'m 20F\b
+\bF21\b
+\bI am F21\b
+\bIm F21\b
+\bI\'m F21\b
+\b21 F\b
+\b21F\b
+\bI am an 21 year old female\b
+\bI am a 21 year old female\b
+\bIm an 21 year old female\b
+\bIm a 21 year old female\b
+\bI\'m an 21 year old female\b
+\bI\'m a 21 year old female\b
+\b21 year old girl\b
+\bI am an 21 year old girl\b
+\bI am a 21 year old girl\b
+\bIm an 21 year old girl\b
+\bIm a 21 year old girl\b
+\bI\'m an 21 year old girl\b
+\bI\'m a 21 year old girl\b
+\b21 years old female\b
+\b21 y/o female\b
+\b21yo female\b
+\b21 year old woman\b
+\bI am an 21 year old woman\b
+\bI am a 21 year old woman\b
+\bIm an 21 year old woman\b
+\bIm a 21 year old woman\b
+\bI\'m an 21 year old woman\b
+\bI\'m a 21 year old woman\b
+\b21 years old woman\b
+\b21 y/o woman\b
+\b21yo woman\b
+\bI am 21F\b
+\bIm 21F\b
+\bI\'m 21F\b
+\bF22\b
+\bI am F22\b
+\bIm F22\b
+\bI\'m F22\b
+\b22 F\b
+\b22F\b
+\bI am an 22 year old female\b
+\bI am a 22 year old female\b
+\bIm an 22 year old female\b
+\bIm a 22 year old female\b
+\bI\'m an 22 year old female\b
+\bI\'m a 22 year old female\b
+\b22 year old girl\b
+\bI am an 22 year old girl\b
+\bI am a 22 year old girl\b
+\bIm an 22 year old girl\b
+\bIm a 22 year old girl\b
+\bI\'m an 22 year old girl\b
+\bI\'m a 22 year old girl\b
+\b22 years old female\b
+\b22 y/o female\b
+\b22yo female\b
+\b22 year old woman\b
+\bI am an 22 year old woman\b
+\bI am a 22 year old woman\b
+\bIm an 22 year old woman\b
+\bIm a 22 year old woman\b
+\bI\'m an 22 year old woman\b
+\bI\'m a 22 year old woman\b
+\b22 years old woman\b
+\b22 y/o woman\b
+\b22yo woman\b
+\bI am 22F\b
+\bIm 22F\b
+\bI\'m 22F\b
+\bF23\b
+\bI am F23\b
+\bIm F23\b
+\bI\'m F23\b
+\b23 F\b
+\b23F\b
+\bI am an 23 year old female\b
+\bI am a 23 year old female\b
+\bIm an 23 year old female\b
+\bIm a 23 year old female\b
+\bI\'m an 23 year old female\b
+\bI\'m a 23 year old female\b
+\b23 year old girl\b
+\bI am an 23 year old girl\b
+\bI am a 23 year old girl\b
+\bIm an 23 year old girl\b
+\bIm a 23 year old girl\b
+\bI\'m an 23 year old girl\b
+\bI\'m a 23 year old girl\b
+\b23 years old female\b
+\b23 y/o female\b
+\b23yo female\b
+\b23 year old woman\b
+\bI am an 23 year old woman\b
+\bI am a 23 year old woman\b
+\bIm an 23 year old woman\b
+\bIm a 23 year old woman\b
+\bI\'m an 23 year old woman\b
+\bI\'m a 23 year old woman\b
+\b23 years old woman\b
+\b23 y/o woman\b
+\b23yo woman\b
+\bI am 23F\b
+\bIm 23F\b
+\bI\'m 23F\b
+\bF24\b
+\bI am F24\b
+\bIm F24\b
+\bI\'m F24\b
+\b24 F\b
+\b24F\b
+\bI am an 24 year old female\b
+\bI am a 24 year old female\b
+\bIm an 24 year old female\b
+\bIm a 24 year old female\b
+\bI\'m an 24 year old female\b
+\bI\'m a 24 year old female\b
+\b24 year old girl\b
+\bI am an 24 year old girl\b
+\bI am a 24 year old girl\b
+\bIm an 24 year old girl\b
+\bIm a 24 year old girl\b
+\bI\'m an 24 year old girl\b
+\bI\'m a 24 year old girl\b
+\b24 years old female\b
+\b24 y/o female\b
+\b24yo female\b
+\b24 year old woman\b
+\bI am an 24 year old woman\b
+\bI am a 24 year old woman\b
+\bIm an 24 year old woman\b
+\bIm a 24 year old woman\b
+\bI\'m an 24 year old woman\b
+\bI\'m a 24 year old woman\b
+\b24 years old woman\b
+\b24 y/o woman\b
+\b24yo woman\b
+\bI am 24F\b
+\bIm 24F\b
+\bI\'m 24F\b
